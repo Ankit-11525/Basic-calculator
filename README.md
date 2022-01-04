@@ -14,4 +14,4 @@ Clear Screen Button: It clear all mathematical values.
 
 Calculate button (=): It evaluates the mathematical expression and returns the result
 
-![App Screenshot](https://i.ytimg.com/vi/jEM1WSk8FwA/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/jEM1WSk8FwA/maxresdefault.jpg" width="500" height="400" />
